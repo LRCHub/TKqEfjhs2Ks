@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SPAGHETTI (Member ver.)",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-28T17:01:13.425609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SPAGHETTI (Member ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/01_SPAGHETTI_(Member_ver.)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPAGHETTI (Member ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_SPAGHETTI_(Member_ver.)_LE_SSERAFIM.txt"
+    }
+  ]
+}
